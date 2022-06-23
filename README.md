@@ -1,12 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on TSS...
-- 🌱 I’m currently learning Python...
-- 👯 I’m looking to collaborate on .TSS..
-- 🤔 I’m looking for help with TSS...
-- 💬 Ask me about Python...
-- 📫 How to reach me: instagram..
-- 😄 Pronouns: HE
-
+- 🔭 I’m currently working on TSS
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on TSS
+- 🤔 I’m looking for help with TSS
+- 💬 Ask me about Python
+- 📫 How to reach me: instagram
+- 😄 Pronouns: he/him
 
 
 ### Learn from my Online Courses
